@@ -1,0 +1,23 @@
+Project Links:
+
+1.	https://github.com/professionaldev527/2.1-Using-Node
+2.	https://github.com/professionaldev527/2.3-NPM
+3.	https://github.com/professionaldev527/2.4-QR-Code-Project
+4.	https://github.com/professionaldev527/3.1-Express-Server
+5.	https://github.com/professionaldev527/3.2-HTTP-Requests
+6.	https://github.com/professionaldev527/3.3-Postman
+7.	https://github.com/professionaldev527/3.4-Middleware
+8.	https://github.com/professionaldev527/3.5-Secrets-Project
+9.	https://github.com/professionaldev527/4.0-EJS
+10.	https://github.com/professionaldev527/4.1-EJS-Tags
+11.	https://github.com/professionaldev527/4.2-Passing-Data
+12.	https://github.com/professionaldev527/4.3-EJS Partials
+13.	https://github.com/professionaldev527/4.4-Band-Generator-Project
+14.	https://github.com/professionaldev527/5.2-JSON
+15.	https://github.com/professionaldev527/5.3-Axios
+16.	https://github.com/professionaldev527/5.4-API-Authentication
+17.	https://github.com/professionaldev527/5.5-REST-APIs
+18.	https://github.com/professionaldev527/5.6-Secrets-Project
+19.	https://github.com/professionaldev527/5.7-Capstone-Crypto
+20.	https://github.com/professionaldev527/6.0-DIY-API
+21.	https://github.com/professionaldev527/6.1-Blog-API-Project
